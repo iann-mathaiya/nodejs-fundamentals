@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-fundamentals",
+  "version": "1.0.0",
+  "description": "learning Nodejs",
+  "main": "main.js",
+  "scripts" : {
+    "start" : "node ./src/index.js",
+    "test": "jest",
+    "build": "tsc",
+    "lint": "eslint"
+  },
+  "author": "Ian Mathaiya",
+  "license": "MIT"
+}
